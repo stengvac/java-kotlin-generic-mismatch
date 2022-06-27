@@ -1,0 +1,12 @@
+# Default ignored files
+
+/.idea/
+/out/
+**/out/
+
+.gradle
+/build/
+**/build/
+
+**/logs/*
+!**/logs/.gitkeep
